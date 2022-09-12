@@ -32,7 +32,7 @@
 <p align="center">
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/66077662/189641263-5f9f6c59-9e8a-4c31-8340-03c2eb16c4ec.png">
 </p>
-<h5 align="center">Closeness Centrality</h5>
+<h5 align="center">Knowledge Network on Trading Floor</h5>
 
 #### There were six communities detected using the best partition community detection algorithm shown below, which doesn’t infer anything about the opinion among the traders, except that some communities have a favorable opinion on average.
 <p align="center">
